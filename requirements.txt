@@ -286,3 +286,7 @@ zstandard==0.23.0
 streamlit
 pyttsx3
 google-generativeai
+speech_recognition  
+gtts 
+os
+tempfile

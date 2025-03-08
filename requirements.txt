@@ -13,3 +13,4 @@ sentence-transformers
 faiss-cpu
 langchain
 tiktoken
+appnope; sys_platform == "darwin"

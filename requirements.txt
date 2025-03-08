@@ -5,15 +5,3 @@ langchain-core
 langchain-community
 bs4
 faiss-cpu
-
-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
-
-AIzaSyBv1OdaOSIY83PKobrEJNPmTUVdY4iqsiU
-
-cd /Users/nitinshendge/AgenticAI  # Navigate to your project folder
-git init  # Initialize Git (if not already done)
-git add .  # Add all project files
-git commit -m "Initial commit - AI Teacher"  # Commit the changes
-git branch -M main  # Rename branch to main
-git remote add origin https://github.com/nitinb.shendge/AI-Teacher.git  # Link to GitHub (Replace with your GitHub username)
-git push -u origin main  # Push code to GitHub
